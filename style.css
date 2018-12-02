@@ -1,0 +1,49 @@
+.main{
+    position: absolute;
+    width:98%;
+    height:90%;
+    margin: auto;
+    
+
+}
+
+.page_header{
+    position: relative;
+    top:-21px;
+    width:100%;
+    background-color: cornflowerblue;
+    height: 100px;
+    padding:0px;
+}
+.page_header h1{
+    position: relative;
+    top:20px;
+    text-align: center;
+    vertical-align: middle;
+    
+}
+.nav_bar{
+    position: relative;
+    float: left;
+    
+    width:200px;
+    height:40%;
+    top:-20px;
+    background-color: darkgray;
+    padding:0px;
+}
+.nav_bar ul {
+    padding-top:8px;
+    padding-bottom: 8px;
+    list-style-type: none;
+}
+.nav_bar ul li{
+    padding-bottom: 8px;
+}
+.main_content{
+    position: relative;
+    margin-left: 10px;
+    top:-10px;
+    float:left;
+    width:80%;
+}
